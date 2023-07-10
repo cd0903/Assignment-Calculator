@@ -1,0 +1,15 @@
+{
+    "assignments": [
+        {
+            "courseName": "CPSC 210",
+            "assignmentName": "Phase 2",
+            "mark": 95
+        },
+        {
+            "courseName": "CPSC 210",
+            "assignmentName": "Lab 7",
+            "mark": 100
+        }
+    ],
+    "name": "assignment"
+}

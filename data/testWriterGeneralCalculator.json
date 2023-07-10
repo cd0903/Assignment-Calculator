@@ -1,0 +1,15 @@
+{
+    "assignments": [
+        {
+            "courseName": "STAT 251",
+            "assignmentName": "Written Assignment 1",
+            "mark": 100
+        },
+        {
+            "courseName": "CPSC 121",
+            "assignmentName": "Lab 3",
+            "mark": 80
+        }
+    ],
+    "name": "Assignment"
+}
